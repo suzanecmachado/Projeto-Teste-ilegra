@@ -1,0 +1,28 @@
+{
+  "name": "testeilegra",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">TesteIlegra</h1>",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "npx cypress open",
+    "cy:run": "npx cypress run",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suzanecmachado/Projeto-Teste-ilegra.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suzanecmachado/Projeto-Teste-ilegra/issues"
+  },
+  "homepage": "https://github.com/suzanecmachado/Projeto-Teste-ilegra#readme",
+  "dependencies": {
+    "faker-br": "^0.4.1"
+  },
+  "devDependencies": {
+    "cypress": "^12.17.4"
+  }
+}
